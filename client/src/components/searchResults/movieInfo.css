@@ -1,0 +1,16 @@
+.meta {
+    font-size: .875rem;
+}
+
+@media (max-width: 768px) {
+    .movie-info {
+        flex-direction: column;
+    }
+
+    .movie-poster {
+        margin-bottom: 3rem;
+    }
+    .cast {
+        margin-left: 1rem;
+    }
+}
